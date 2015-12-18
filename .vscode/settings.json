@@ -1,0 +1,8 @@
+{
+	"editor.tabSize": 2,
+	"files.insertFinalNewline": true,
+	"editor.wrappingColumn": 0,
+	"markdown.styles": [
+		"/.vscode/github-markdown.min.css"
+	]
+}
