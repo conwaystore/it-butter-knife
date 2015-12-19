@@ -1,7 +1,7 @@
 # it-butter-knife
 > No es un Swiss-Army-Knife pero sí muy esencial para todo profesional IT de NT
 
-Compartimos nuestros snippets a la comunidad libre - Puedes estudiarlo, usarlo y compartilo :metal:
+Compartimos nuestros snippets a la comunidad. Tal vez encuentre uno util para usted :metal:
 
 ## Snippets
 ### MapDriveToSMBPath.vbs
@@ -19,7 +19,7 @@ Tipo: `string`
 
 Note que en el siguiente snippet hemos utilizado la funcion **nextDriveLabel**.
 
- ```vbscript
+ ```vbnet
 Option Explicit
 
 Sub Import(vbsSource)

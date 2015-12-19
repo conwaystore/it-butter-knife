@@ -9,7 +9,7 @@ Retorna: `string`
 Automaticamente genera la siguiente etiqueta **sin uso** para discos logicos.
 
 ##### Ejemplo
-```vbscript
+```vbnet
 Option Explicit
 
 Dim strDriveLabel
