@@ -1,4 +1,4 @@
-Private Function nextDriveLabel()
+Function nextDriveLabel()
 	Dim objDict, _
 			objWMI, _
 			objNet, _
