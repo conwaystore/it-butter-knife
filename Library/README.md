@@ -3,7 +3,7 @@
 Library incluye funciones y rutinas.
 
 ## Funciones
-### nexDriveLabel()
+### nextDriveLabel()
 Retorna: `string`
 
 Automaticamente genera la siguiente etiqueta **sin uso** para discos logicos.
